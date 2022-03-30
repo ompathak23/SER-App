@@ -258,7 +258,7 @@ def main():
     st.sidebar.write(" 6. Sad😥 ")
     st.sidebar.write(" 7. Surprise😮 ")
 
-    st.sidebar.subheader(" You can check out source code of this website [here](https://github.com/ujjwal404/fruitClassificationTFLite).")
+    st.sidebar.subheader(" You can check out source code of this website [here](https://github.com/ompathak23/SER-App).")
     st.sidebar.markdown("Made by [Om Pathak](https://github.com/ompathak23), Himanshu Sogarwal and Yash Kumar")
 
 
