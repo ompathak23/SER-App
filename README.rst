@@ -2,8 +2,10 @@ Speech Emotion Recognition App
 
 Speech Emotion Recognition (SER) App processes and classifies speech signals to detect the embedded emotions.
 
-Dataset Used : Ryerson Audio-Visual Database of Emotional Speech (Ravdess)
---------------------------------------------------------------------------
+Dataset Used : 
+--------------
+
+Ryerson Audio-Visual Database of Emotional Speech (Ravdess)
 
 Data Augmentation:
 ------------------
